@@ -1,4 +1,4 @@
-//javascript
+
 let game_pattern = [];
 let user_pattern = [];
 
